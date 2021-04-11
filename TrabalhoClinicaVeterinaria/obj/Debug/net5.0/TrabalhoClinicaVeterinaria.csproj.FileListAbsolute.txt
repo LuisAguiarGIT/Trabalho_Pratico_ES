@@ -1,0 +1,16 @@
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\obj\Debug\net5.0\TrabalhoClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\obj\Debug\net5.0\TrabalhoClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\obj\Debug\net5.0\TrabalhoClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\obj\Debug\net5.0\TrabalhoClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\obj\Debug\net5.0\TrabalhoClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\bin\Debug\net5.0\TrabalhoClinicaVeterinaria.exe
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\bin\Debug\net5.0\TrabalhoClinicaVeterinaria.deps.json
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\bin\Debug\net5.0\TrabalhoClinicaVeterinaria.runtimeconfig.json
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\bin\Debug\net5.0\TrabalhoClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\bin\Debug\net5.0\TrabalhoClinicaVeterinaria.dll
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\bin\Debug\net5.0\ref\TrabalhoClinicaVeterinaria.dll
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\bin\Debug\net5.0\TrabalhoClinicaVeterinaria.pdb
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\obj\Debug\net5.0\TrabalhoClinicaVeterinaria.dll
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\obj\Debug\net5.0\ref\TrabalhoClinicaVeterinaria.dll
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\obj\Debug\net5.0\TrabalhoClinicaVeterinaria.pdb
+C:\Users\luisa\Documents\Code\C#\Projeto\TrabalhoClinicaVeterinaria\obj\Debug\net5.0\TrabalhoClinicaVeterinaria.genruntimeconfig.cache
